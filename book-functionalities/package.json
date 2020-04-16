@@ -1,0 +1,6 @@
+{
+  "name": "book-functionalities",
+  "dependencies": {
+    "book-data": "file:../book-data"
+  }
+}
